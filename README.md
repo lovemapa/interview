@@ -20,9 +20,10 @@ mongodump restore
     
 
 
-* endpoints:
+mongodump restore
+============
 
-localhost:8081/getAverage (GET)
-localhost:8081/updateUser (POST)
+    localhost:8081/getAverage (GET)
+    localhost:8081/updateUser (POST)
 
 
